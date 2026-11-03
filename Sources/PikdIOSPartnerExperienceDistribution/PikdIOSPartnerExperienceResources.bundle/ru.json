@@ -1,0 +1,45 @@
+{
+  "dashboard": "Обзор",
+  "collectibles": "Коллекция",
+  "collected": "Собрано",
+  "visited": "Посещённые места",
+  "pending": "Осталось посетить",
+  "status": "Статус прохождения",
+  "completed": "Завершено",
+  "incomplete": "В процессе",
+  "unavailable": "Статистика пока недоступна.",
+  "points": "Баллы",
+  "collectionsCount": "Коллекции",
+  "collectionTimeSeconds": "Время сбора",
+  "assetsPerSecond": "Предметов в секунду",
+  "secondsPerAsset": "Секунд на предмет",
+  "assetVisits": "Посещения предметов",
+  "visits": "Посещения",
+  "emptyVisits": "Посещений пока нет.",
+  "unnamed": "Коллекционный предмет",
+  "missing": "Недоступно",
+  "presentation": {
+    "mapTabLabel": "Карта",
+    "campaignTabLabel": "Информация",
+    "leaderboardTabLabel": "Рейтинг",
+    "collectionsTabLabel": "Профиль",
+    "exitAccessibilityLabel": "Выйти",
+    "defaultHowToPlaySteps": [
+      "Изучите карту челленджа",
+      "Ищите предметы {{itemBrand}} (AR-артефакты)",
+      "Отправьтесь к физическому местоположению",
+      "Нажмите «Собрать», чтобы открыть AR-камеру"
+    ],
+    "cameraPermissionDescription": "Чтобы показывать коллекционные предметы в AR, нам нужен доступ к вашей камере.",
+    "collectionSuccessDescription": "Поздравляем, вы собрали новый предмет! Давайте посмотрим, что это!\n\nПерейдите в свои Коллекции, чтобы увидеть все свои собранные предметы.",
+    "collectionSuccessCta": "Перейти в Коллекции",
+    "stringOverrides": {
+      "ar.waitingForLocation": "Ожидание вашего местоположения. Проверьте разрешение на местоположение и GPS.",
+      "error.outdatedAppVersion": "Версия приложения устарела. Обновите приложение {{appName}} до последней версии.",
+      "challenge.winDescription": "Завершите маршрут, чтобы получить приз. Самых быстрых участников ждёт особый приз.",
+      "ar.alreadyCollected": "Вы уже собрали этот постоянный AR-артефакт.",
+      "ar.alreadyCollectedDescription": "Постоянные AR-артефакты можно собирать раз в 24 часа. Отправляйтесь к следующему артефакту на карте!"
+    },
+    "showCollectionMessages": true
+  }
+}

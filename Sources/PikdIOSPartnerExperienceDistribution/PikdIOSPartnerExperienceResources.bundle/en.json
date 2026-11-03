@@ -1,0 +1,45 @@
+{
+  "dashboard": "Dashboard",
+  "collectibles": "Collectibles",
+  "collected": "Collected",
+  "visited": "Sites visited",
+  "pending": "Pending visits",
+  "status": "Completion status",
+  "completed": "Completed",
+  "incomplete": "In progress",
+  "unavailable": "Statistics are not available yet.",
+  "points": "Points",
+  "collectionsCount": "Collections",
+  "collectionTimeSeconds": "Collection time",
+  "assetsPerSecond": "Assets per second",
+  "secondsPerAsset": "Seconds per asset",
+  "assetVisits": "Asset visits",
+  "visits": "Visits",
+  "emptyVisits": "No asset visits yet.",
+  "unnamed": "Collectible",
+  "missing": "Unavailable",
+  "presentation": {
+    "mapTabLabel": "Map",
+    "campaignTabLabel": "Info",
+    "leaderboardTabLabel": "Leaderboard",
+    "collectionsTabLabel": "Profile",
+    "exitAccessibilityLabel": "Exit",
+    "defaultHowToPlaySteps": [
+      "Explore the Challenge Map",
+      "Look for {{itemBrand}} items (AR-tefacts)",
+      "Head to the physical location",
+      "Tap “Collect” to open AR camera"
+    ],
+    "cameraPermissionDescription": "To display AR collectibles, we need access to your camera.",
+    "collectionSuccessDescription": "Congrats, you’ve collected a new item! Check it out!\n\nGo to My Collections to view all the items you’ve collected.",
+    "collectionSuccessCta": "Go to My Collections",
+    "stringOverrides": {
+      "ar.waitingForLocation": "Waiting for your location. Check location permission and that GPS is on.",
+      "error.outdatedAppVersion": "The {{appName}} app version is outdated. Update {{appName}} to the latest version.",
+      "challenge.winDescription": "Finish the trail to win a prize. Fastest participants to win something special.",
+      "ar.alreadyCollected": "You've already collected this permanent ARtefact.",
+      "ar.alreadyCollectedDescription": "Permanent ARtefacts can be collected once every 24 hours. Head to the next one on the map to keep going!"
+    },
+    "showCollectionMessages": true
+  }
+}

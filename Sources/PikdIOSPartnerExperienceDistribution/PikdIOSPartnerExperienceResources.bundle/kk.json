@@ -1,0 +1,46 @@
+{
+  "dashboard": "Шолу",
+  "collectibles": "Коллекция",
+  "collected": "Жиналды",
+  "visited": "Барған орындар",
+  "pending": "Қалған орындар",
+  "status": "Аяқталу күйі",
+  "completed": "Аяқталды",
+  "incomplete": "Орындалуда",
+  "unavailable": "Статистика әзірге қолжетімсіз.",
+  "points": "Ұпайлар",
+  "collectionsCount": "Коллекциялар",
+  "collectionTimeSeconds": "Жинау уақыты",
+  "assetsPerSecond": "Секундына заттар",
+  "secondsPerAsset": "Бір затқа секунд",
+  "assetVisits": "Заттарға бару",
+  "visits": "Бару саны",
+  "emptyVisits": "Әзірге барулар жоқ.",
+  "unnamed": "Коллекциялық зат",
+  "missing": "Қолжетімсіз",
+  "presentation": {
+    "mapTabLabel": "Карта",
+    "campaignTabLabel": "Ақпарат",
+    "leaderboardTabLabel": "Рейтинг",
+    "collectionsTabLabel": "Профиль",
+    "exitAccessibilityLabel": "Шығу",
+    "defaultHowToPlaySteps": [
+      "Челлендж картасын зерттеңіз",
+      "{{itemBrand}} заттарын іздеңіз (AR-артефакттер)",
+      "Нақты орынға барыңыз",
+      "AR камераны ашу үшін «Жинау» түймесін басыңыз"
+    ],
+    "cameraPermissionDescription": "AR коллекциялық заттарын көрсету үшін камераңызға рұқсат қажет.",
+    "collectionSuccessDescription": "Құттықтаймыз, сіз жаңа элементті жинадыңыз! Оны көрейік!\n\nЖиналған барлық элементтерді көру үшін Топтамаларға өтіңіз.",
+    "collectionSuccessCta": "Топтамаларға өту",
+    "stringOverrides": {
+      "explore.endsIn": "Аяқталуы",
+      "ar.waitingForLocation": "Орналасқан жеріңіз күтілуде. Орналасуға рұқсат пен GPS қосулы екенін тексеріңіз.",
+      "error.outdatedAppVersion": "Қосымша нұсқасы ескірген. {{appName}} қосымшасын соңғы нұсқаға дейін жаңартыңыз.",
+      "challenge.winDescription": "Жүлде алу үшін маршрутты аяқтаңыз. Ең жылдам қатысушыларды ерекше жүлде күтеді.",
+      "ar.alreadyCollected": "Сіз бұл тұрақты AR-артефактті жинап алдыңыз.",
+      "ar.alreadyCollectedDescription": "Тұрақты AR-артефакттерді 24 сағат сайын бір рет жинауға болады. Картадағы келесі артефактке барыңыз!"
+    },
+    "showCollectionMessages": true
+  }
+}

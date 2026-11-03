@@ -1,0 +1,113 @@
+{
+  "referenceCommit": "4873f0ad33c5e283efb195e4085e1647e623f24e",
+  "files": {
+    "firework.json": {
+      "source": "packages/pikd-react-native-ui/assets/lotties/firework.json",
+      "sha256": "861468da760945cefc2bab0775d5daffc1feaccea579b3b9b1ce87370aa16883"
+    },
+    "map.json": {
+      "source": "packages/pikd-react-native-ui/assets/lotties/map.json",
+      "sha256": "cdaa36cf776fb4424d8c0e310f7e207f0fad3ecfd17725bb122c74e6f0fa62df"
+    },
+    "radar.json": {
+      "source": "packages/pikd-react-native-ui/assets/lotties/radar.json",
+      "sha256": "e2e6e84a00d4d0d5bfbc7a75664b8ce6fbbebe343feeaba44c86fa7333dc1dc7"
+    },
+    "warning.png": {
+      "source": "packages/pikd-react-native-ui/assets/images/warning.png",
+      "sha256": "64553cedf581fd46f34a076b7938402edefac0f5363bc7ba0522f7b4706f7c70"
+    },
+    "check.png": {
+      "source": "packages/pikd-react-native-ui/assets/images/check.png",
+      "sha256": "21eae8e069ecc3b395e00e99ede1eb8dd427a17e9d4a28bf6709395b6dbd4861"
+    },
+    "tab-explore-active.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/tab-explore-active.svg",
+      "sha256": "e89d88616179ce5aa606cb2a4437e2aebcea467097aea881ab7357211c984c9d"
+    },
+    "tab-ar.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/tab-ar.svg",
+      "sha256": "04f2ac5a28d1a4bae47755a5c68a6d12abddcccae6eb2243cb27bd80fb63a8d5"
+    },
+    "tab-leaderboard.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/tab-leaderboard.svg",
+      "sha256": "7212528c2c488a262eae7d38a57f30cdb26da807b5004289d6c382490fabfd6a"
+    },
+    "arrow-right.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/arrow-right.svg",
+      "sha256": "dcd55a13ab3b5563ecdd6b69595f70d562c532ee2c836aeddb7f4035e4fa5800"
+    },
+    "collect.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/collect.svg",
+      "sha256": "cb7755dc569842008ecadfd1495db521249cd962b9215a205292a92bb0f0514c"
+    },
+    "tab-challenges.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/tab-challenges.svg",
+      "sha256": "a1f85b38ba3d80f77723c24707b6194c7e92711a75f2b6a6d02ee82d1296fb2e"
+    },
+    "close.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/close.svg",
+      "sha256": "494cbe62dc6ea92dca2bdeb2186227a48c29982662cf81c69688ba7461e0c4bc"
+    },
+    "camera.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/camera.svg",
+      "sha256": "65b8146532ba5ded2366005eee47e6535695f975bc0453fc04f439c618d711c6"
+    },
+    "tab-profile.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/tab-profile.svg",
+      "sha256": "e5cfcc8399e10c12a3e2229f29d104c606ba64769e97cd82431a6b8b585d2e7a"
+    },
+    "tab-ar-active.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/tab-ar-active.svg",
+      "sha256": "076ade9598974829c4fe07fd53bc47cd1b85387a848ac8e6c4737f2c9222d1d4"
+    },
+    "arrow-left.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/arrow-left.svg",
+      "sha256": "80826e58299232611c69b7be553f281707fd52910bfea95c757d69794b336a17"
+    },
+    "tab-profile-active.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/tab-profile-active.svg",
+      "sha256": "4020fd52d0f0864f7cc97f29ca99563db82bc591872e1030a89b2fcb1bb6c86a"
+    },
+    "tab-leaderboard-active.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/tab-leaderboard-active.svg",
+      "sha256": "a6f2fe0333337e83b277445269cd505e7bcd0426b3e676c09e273bd9544eecf6"
+    },
+    "tab-explore.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/tab-explore.svg",
+      "sha256": "08116f2c5d17bf1232646e465f75c4c6a32cc79da92acc81adb97b0d7e0d8d7d"
+    },
+    "tab-challenges-active.svg": {
+      "source": "packages/pikd-react-native-ui/assets/icons/tab-challenges-active.svg",
+      "sha256": "bbc9fcd6e68dc3e883bf2c545cdf37aceca12660faefa0489f48ee5ff721f5f0"
+    },
+    "Manrope-Variable.ttf": {
+      "source": "packages/pikd-react-native-ui/assets/fonts/Manrope-Variable.ttf",
+      "sha256": "d0639be45d0af36e798172419d7bd173c4bd4f29e2b76cbb69db1d11bf8b0a40"
+    },
+    "Manrope-OFL.txt": {
+      "source": "packages/pikd-react-native-ui/assets/fonts/Manrope-OFL.txt",
+      "sha256": "f612090fb72b6dca3e807e66fa0d2b5def163cef86f1a3209b5c897cba5ee4b7"
+    },
+    "toast-success.svg": {
+      "source": "packages/pikd-react-native-ui/src/toast-icons.ts#success",
+      "sha256": "aac54d53d0197841c305e31cee1c8e5b122f931e45e20390672f40492fe0b24c"
+    },
+    "toast-failed.svg": {
+      "source": "packages/pikd-react-native-ui/src/toast-icons.ts#failed",
+      "sha256": "cebf42143ee76b9ae3154f70400d0dc442a75ac9fac500ea0b15b98eadb49e53"
+    },
+    "toast-warning.svg": {
+      "source": "packages/pikd-react-native-ui/src/toast-icons.ts#warning",
+      "sha256": "96531d2592e10876f7a5e6c71f90b8d8aa12e01555718c52c700dd8efc9ec5a2"
+    },
+    "toast-info.svg": {
+      "source": "packages/pikd-react-native-ui/src/toast-icons.ts#info",
+      "sha256": "0f2ea3246e33c9276fef62b4a29dad3a82f10e16279565069a5266a6672c9c5f"
+    },
+    "exit.svg": {
+      "source": "packages/pikd-react-native-experience/src/widgets.tsx#ExperienceExitIcon (Material logout Apache-2.0)",
+      "sha256": "5eb1777f077caf2460eeb46e8bc47a32ffb0300da55ebe53f5588190b4f43043"
+    }
+  }
+}
